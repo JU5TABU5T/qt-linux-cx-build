@@ -1,9 +1,0 @@
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/TEST.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/TEST_autogen_timestamp_deps.dir
-C:/Users/Justus Abshire/Documents/build-TEST-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/TEST_autogen.dir
